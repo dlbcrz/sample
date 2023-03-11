@@ -1,0 +1,3 @@
+[submodule "sample-sub"]
+	path = sample-sub
+	url = git@github.com:dlbcrz/sample-sub.git
